@@ -1,7 +1,0 @@
-C:\Users\Jakub\source\repos\AzureOpenAIBackend\AzureOpenAIBackend\obj\Debug\net8.0\AzureOpenAIBackend.csproj.AssemblyReference.cache
-C:\Users\Jakub\source\repos\AzureOpenAIBackend\AzureOpenAIBackend\obj\Debug\net8.0\AzureOpenAIBackend.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Jakub\source\repos\AzureOpenAIBackend\AzureOpenAIBackend\obj\Debug\net8.0\AzureOpenAIBackend.AssemblyInfoInputs.cache
-C:\Users\Jakub\source\repos\AzureOpenAIBackend\AzureOpenAIBackend\obj\Debug\net8.0\AzureOpenAIBackend.AssemblyInfo.cs
-C:\Users\Jakub\source\repos\AzureOpenAIBackend\AzureOpenAIBackend\obj\Debug\net8.0\AzureOpenAIBackend.csproj.CoreCompileInputs.cache
-C:\Users\Jakub\source\repos\AzureOpenAIBackend\AzureOpenAIBackend\obj\Debug\net8.0\AzureOpenAIBackend.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Jakub\source\repos\AzureOpenAIBackend\AzureOpenAIBackend\obj\Debug\net8.0\AzureOpenAIBackend.MvcApplicationPartsAssemblyInfo.cache
