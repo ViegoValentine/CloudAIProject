@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hubert\\Desktop\\CloudAIProject\\CloudAIProject\\Backend\\",
+  "WorkspaceRootPath": "D:\\Projekty i dokumentacje\\CloudAIProject\\CloudAIProject\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2DE6956-2B43-43A0-8701-C4182A6A044F}|Azure chat gpt test\\Azure chat gpt test.pyproj|C:\\Users\\Hubert\\Desktop\\CloudAIProject\\CloudAIProject\\Backend\\Azure chat gpt test\\Azure_chat_gpt_test.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{B2DE6956-2B43-43A0-8701-C4182A6A044F}|Azure chat gpt test\\Azure chat gpt test.pyproj|D:\\Projekty i dokumentacje\\CloudAIProject\\CloudAIProject\\Backend\\Azure chat gpt test\\Azure_chat_gpt_test.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{B2DE6956-2B43-43A0-8701-C4182A6A044F}|Azure chat gpt test\\Azure chat gpt test.pyproj|solutionrelative:Azure chat gpt test\\Azure_chat_gpt_test.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -14,17 +14,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Azure_chat_gpt_test.py",
-              "DocumentMoniker": "C:\\Users\\Hubert\\Desktop\\CloudAIProject\\CloudAIProject\\Backend\\Azure chat gpt test\\Azure_chat_gpt_test.py",
+              "DocumentMoniker": "D:\\Projekty i dokumentacje\\CloudAIProject\\CloudAIProject\\Backend\\Azure chat gpt test\\Azure_chat_gpt_test.py",
               "RelativeDocumentMoniker": "Azure chat gpt test\\Azure_chat_gpt_test.py",
-              "ToolTip": "C:\\Users\\Hubert\\Desktop\\CloudAIProject\\CloudAIProject\\Backend\\Azure chat gpt test\\Azure_chat_gpt_test.py",
+              "ToolTip": "D:\\Projekty i dokumentacje\\CloudAIProject\\CloudAIProject\\Backend\\Azure chat gpt test\\Azure_chat_gpt_test.py",
               "RelativeToolTip": "Azure chat gpt test\\Azure_chat_gpt_test.py",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADQAAAAYAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-01-18T19:57:24.019Z",
               "EditorCaption": ""
